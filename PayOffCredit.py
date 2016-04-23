@@ -32,9 +32,7 @@ print ("\nReslult")
 print ("Total amount paid: $", round(amount_paid, 2))
 print ("Remaining balance: $", round(remaining_balance, 2))
 
-## professor solutions
 
-# 6.00 PS1-A Solution
 # Determines remaining credit card balance after a year of making the minimum payment each month
 
 balance = float(input("Enter the outstanding balance on your credit card: "))
